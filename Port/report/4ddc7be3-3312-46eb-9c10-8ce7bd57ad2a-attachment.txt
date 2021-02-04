@@ -1,0 +1,2 @@
+预期结果： {'code': 0, 'msg': 'OK'}
+实际结果： {"code":0,"msg":"OK","data":{"id":1191326,"leave_amount":1000000.0,"mobile_phone":"13171020681","reg_name":"小柠檬","reg_time":"2021-02-01 17:25:12.0","type":1,"token_info":{"token_type":"Bearer","expires_in":"2021-02-04 09:39:17","token":"eyJhbGciOiJIUzUxMiJ9.eyJtZW1iZXJfaWQiOjExOTEzMjYsImV4cCI6MTYxMjQwMjc1N30.rngNU2tN7uf-FoaI1NVLEboVaVhZ-Ttu70EbDBOdsE6eeR7U6hpK1Ed1S0TBuJb8sVx97B6r390hDP9cLsOjXg"}},"copyright":"Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved"}
