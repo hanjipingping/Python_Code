@@ -2,7 +2,7 @@ from threading import Timer
 import requests
 import random
 import time
-import schedule
+
 
 
 # 获取金山词霸每日一句英文和翻译
